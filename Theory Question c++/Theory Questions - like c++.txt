@@ -1,0 +1,32 @@
+Theory Questions :-
+
+1.) What are the key differences between Procedural Programming and Object-Oriented Programming (OOP) ?
+2.) List and explain the main advantages of OOP over POP ?
+3.) Explain the steps involved in setting up a C++ development environment ?
+4.) What are the main input/output operations in C++? Provide examples ?
+
+5.) What are the different data types available in C++? Explain with examples ?
+6.) Explain the difference between implicit and explicit type conversion in C++ ?
+7.) What are the different types of operators in C++? Provide examples of each ?
+8.) Explain the purpose and use of constants and literals in C++ ?
+
+9.) What are conditional statements in C++? Explain the if-else and switch statements ?
+10.) What is the difference between for, while, and do-while loops in C++ ?
+11.) How are break and continue statements used in loops? Provide examples ?
+12.) Explain nested control structures with an example ?
+
+13.) What is a function in C++? Explain the concept of function declaration, definition, and calling ?
+14.) What is the scope of variables in C++? Differentiate between local and global scope ?
+15.) Explain recursion in C++ with an example ?
+16.) What are function prototypes in C++? Why are they used ?
+
+17.) What are arrays in C++? Explain the difference between single-dimensional and multidimensional arrays ?
+18.) Explain string handling in C++ with examples ?
+19.) How are arrays initialized in C++? Provide examples of both 1D and 2D arrays ?
+20.) Explain string operations and functions in C++ ?
+
+21.) Explain the key concepts of Object-Oriented Programming (OOP) ?
+22.) What are classes and objects in C++? Provide an example ?
+23.) What is inheritance in C++? Explain with an example ?
+24.) What is encapsulation in C++? How is it achieved in classes ?
+
